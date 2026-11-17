@@ -1,0 +1,10 @@
+INFINITE FOOTBALL 1.0
+
+Como abrir:
+1. Extraia esta pasta do ZIP.
+2. Abra index.html em um navegador moderno.
+3. Para instalar como app (PWA), hospede a pasta em um servidor HTTPS e use “Adicionar à tela inicial”.
+
+Inclui o protótipo anterior 0.8, central com as 15 mecânicas, editor de regras, simulação automática e modo jogável 2D com controles por toque/teclado.
+
+Importante: esta é uma versão web offline/protótipo funcional, não um APK Android nativo. O modo jogável é uma experiência 2D original e simples, não possui gráficos ou licenças do FIFA. Mercado online, ranking mundial sincronizado, geopolítica real e simulação histórica profunda ainda exigem backend e desenvolvimento adicional. Dados ficam salvos localmente no navegador.
